@@ -7,7 +7,7 @@ awesome-iroh/
 axum-server/
 bao-docs/
 bao-tree/
-beetle/
+!beetle/
 cargo-semver-checks-action/
 chuck/
 create-an-issue/

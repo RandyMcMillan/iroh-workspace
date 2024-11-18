@@ -1,0 +1,3 @@
+[submodule "beetle"]
+	path = beetle
+	url = git@github.com:RandyMcMillan/beetle.git
